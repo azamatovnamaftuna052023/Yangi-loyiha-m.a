@@ -1,1 +1,1 @@
-# Yangi-loyiha-m.a
+dori darmon preparatlari ma'lumotlari tizimi uchun ma'lumotlar bazasini ishlab chiqish
